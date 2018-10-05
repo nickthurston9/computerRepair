@@ -1,0 +1,86 @@
+*{
+  font-family: 'Tajawal', sans-serif;
+}
+body{
+  background: linear-gradient(#fefefe, #feefee);
+}
+header{
+  height: 500px;
+  color: #fff;
+  font-family: 'Tajawal', sans-serif;
+  text-align: center;
+}
+header h1{
+  font-size: 65px;
+  margin: 0 auto;
+  padding-top: 40px;
+  text-shadow: 0px 0px 10px black;
+}
+header h3{
+  text-shadow: 0px 0px 10px black;
+}
+#supportLinkRow{
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 6rem;
+  margin: auto;
+}
+#supportLink{
+  font-size: 25px;
+  border-radius: 75px;
+}
+#frontBackground{
+  background-image: url("pics/computerPic.jpg");
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#block1{
+  padding: 30px;
+}
+#block1 h2{
+  font-size: 35px;
+  text-align: center;
+}
+#block1 p{
+  font-size: 25px;
+  text-align: center;
+  padding-top: 20px;
+}
+#block2{
+  padding: 30px;
+}
+#block2 h2{
+  font-size: 35px;
+  text-align: center;
+}
+#block2 p{
+  font-size: 25px;
+  text-align: center;
+  padding-top: 20px;
+}
+#block3 h2{
+  font-size: 35px;
+  text-align: center;
+}
+#block3 p{
+  font-size: 25px;
+  display: inline;
+  padding-top: 20px;
+}
+i{
+  font-size: 16px;
+}
+ul{
+  list-style: none;
+}
+#block3 input, #block3 label, #block3 textarea, #block3 button{
+  display: block;
+}
+#block3 button{
+  margin: 20px 0px 20px 0px;
+  padding: 5px;
+  background: #007bff;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+}

@@ -1,0 +1,10 @@
+#smile{
+  padding-top: 20vh;
+  background: #feefff;
+  margin: auto;
+  text-align: center;
+}
+#smile i{
+  font-size: 20vh;
+  color: lightGreen;
+}

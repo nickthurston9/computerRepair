@@ -1,0 +1,13 @@
+html{
+  height: 100%;
+}
+body{
+  background: linear-gradient(#fefefe, #feefee);
+}
+h1{
+  text-align: center;
+}
+p.lead{
+  font-size: 18px;
+  margin-top: 4rem;
+}
